@@ -47,7 +47,14 @@ section img{
     width:100%;
 }
 section p,h2{
-    margin: 40px;
+    padding: 40px;
     line-height: 20px;
     font-style: italic;
+}
+footer{
+    margin:0px 20%;
+    background-color: rgb(240, 240, 240);
+    color: rgb(78, 78, 0);
+    text-align: center;
+    padding: 20px;
 }
